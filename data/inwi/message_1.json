@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "inwi"
+    },
+    {
+      "name": "Tariq Massaoudi"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "inwi",
+      "timestamp_ms": 1585650833201,
+      "content": "Bonjour Tariq, j\u00e2\u0080\u0099esp\u00c3\u00a8re que vous vous portez bien et que vous passez une bonne journ\u00c3\u00a9e\n\nVous effectuez une recharge normale, pour b\u00c3\u00a9n\u00c3\u00a9ficier de l'offre. L'offre est valable jusqu'au 15 avril 2020 \n\nNous sommes \u00c3\u00a0 votre disposition pour r\u00c3\u00a9pondre \u00c3\u00a0 toutes vos questions, bienvenue Tariq\n\n Wiam",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Bonjour Tariq, j\u00e2\u0080\u0099esp\u00c3\u00a8re que vous vous portez bien et que vous passez une bonne journ\u00c3\u00a9e\n\nVous effectuez une recharge normale, pour b\u00c3\u00a9n\u00c3\u00a9ficier de l'offre. L'offre est valable jusqu'au 15 avril 2020 \n\nNous sommes \u00c3\u00a0 votre disposition pour r\u00c3\u00a9pondre \u00c3\u00a0 toutes vos questions, bienvenue Tariq\n\n Wiam",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Tariq Massaoudi",
+      "timestamp_ms": 1585578647702,
+      "content": "comment b\u00c3\u00a9n\u00c3\u00a9ficier de l'offre x15?",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "comment b\u00c3\u00a9n\u00c3\u00a9ficier de l'offre x15?",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "inwi",
+      "timestamp_ms": 1585578628927,
+      "content": "Bonjour Tariq , nous venons de prendre connaissance de votre message. Notre \u00c3\u00a9quipe vous r\u00c3\u00a9pondra dans les plus brefs d\u00c3\u00a9lais !",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Bonjour Tariq , nous venons de prendre connaissance de votre message. Notre \u00c3\u00a9quipe vous r\u00c3\u00a9pondra dans les plus brefs d\u00c3\u00a9lais !",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Tariq Massaoudi",
+      "timestamp_ms": 1585578628030,
+      "content": "bonjour inwi",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "bonjour inwi",
+        "is_bumped": false
+      }
+    }
+  ],
+  "title": "inwi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/inwi_kzi_elx_uw",
+  "magic_words": [
+    
+  ]
+}

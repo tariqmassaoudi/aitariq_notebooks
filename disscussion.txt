@@ -1,0 +1,13 @@
+Person:Soufiane is waiting for your response about this listing.
+Person:Deja vendu
+Tariq Massaoudi:salam soufian je suis interessé par le pixel 3
+Person:Bonjour Tariq, j’espère que vous vous portez bien et que vous passez une bonne journée
+
+Vous effectuez une recharge normale, pour bénéficier de l'offre. L'offre est valable jusqu'au 15 avril 2020 
+
+Nous sommes à votre disposition pour répondre à toutes vos questions, bienvenue Tariq
+
+ Wiam
+Tariq Massaoudi:comment bénéficier de l'offre x15?
+Person:Bonjour Tariq , nous venons de prendre connaissance de votre message. Notre équipe vous répondra dans les plus brefs délais !
+Tariq Massaoudi:bonjour inwi

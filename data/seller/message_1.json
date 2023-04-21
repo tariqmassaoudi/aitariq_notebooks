@@ -1,0 +1,84 @@
+{
+  "participants": [
+    {
+      "name": "Seller"
+    },
+    {
+      "name": "Tariq Massaoudi"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Seller",
+      "timestamp_ms": 1564428506222,
+      "content": "Soufiane is waiting for your response about this listing.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Seller",
+      "timestamp_ms": 1564420905218,
+      "content": "Deja vendu",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "Deja vendu",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Tariq Massaoudi",
+      "timestamp_ms": 1564420302377,
+      "content": "salam soufian je suis interess\u00c3\u00a9 par le pixel 3",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "salam soufian je suis interess\u00c3\u00a9 par le pixel 3",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Tariq Massaoudi",
+      "timestamp_ms": 1564420300269,
+      "content": "You changed the group photo.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Tariq Massaoudi",
+      "timestamp_ms": 1564420299716,
+      "content": "You named the group Tariq \u00c2\u00b7 Google pixel 3 \u00c3\u00a9tat neuf import men l europe.",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "is_bumped": false
+      }
+    }
+  ],
+  "title": "Tariq \u00c2\u00b7 Google pixel 3 \u00c3\u00a9tat neuf import men l europe",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/tariqgooglepixel3etatneufimportmenleurope_bpwso9qyaa",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "messages/photos/60493487_10219633960304237_6328837973710209024_n_754603354943026.jpg",
+    "creation_timestamp": 1564420298
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}
